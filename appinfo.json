@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "225b1732-b832-42d4-acc6-60bdfd533586",
+    "appKeys": {},
+    "longName": "twopointzero",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "twopointzero",
+    "companyName": "mpwh",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
